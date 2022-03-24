@@ -1,7 +1,7 @@
-baseURL = 'https://caencamp.github.io/nuit-imagination/'
+baseURL = 'https://nicolas-j.github.io'
 languageCode = 'fr-fr'
 theme = 'soho'
-title = "Nuit de l'imaginaire"
+title = "Nuit de l'imagonaire"
 
 enableEmoji = true
 summarylength = 10

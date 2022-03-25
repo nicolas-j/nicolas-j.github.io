@@ -1,6 +1,6 @@
 baseURL = 'https://nicolas-j.github.io'
 languageCode = 'fr-fr'
-theme = 'sugoi'
+theme = 'ananke'
 title = "Nuit de l'imagonaire"
 
 enableEmoji = true
